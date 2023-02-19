@@ -1,0 +1,1 @@
+# wbc-theme-child
